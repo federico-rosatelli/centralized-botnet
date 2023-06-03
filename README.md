@@ -1,9 +1,7 @@
 ---
 author:
 - Federico Rosatelli 1882771
-- Federico Rosatelli 1882771
 title:
-- 'Sicurezza: Basic Botnet'
 - 'Sicurezza: Basic Botnet'
 ---
 
